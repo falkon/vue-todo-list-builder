@@ -1,0 +1,28 @@
+{
+  "name": "vue-todo-list-builder",
+  "description": "Vue.js 2 Todo-list builder library",
+  "version": "1.0.0",
+  "author": "theAlex <info@thealex.ru>",
+  "private": false,
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/falkon/vue-table-builder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/falkon/vue-table-builder/issues"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "vue": "^2.0.0"
+  },
+  "dependencies": {
+  },
+  "keywords": [
+    "vue",
+    "todo-list"
+  ],
+  "devDependencies": {
+    "vue": "^2.0.0"
+  }
+}
